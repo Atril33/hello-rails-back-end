@@ -39,7 +39,7 @@
 <!-- Features -->
 
 ### Frontend
-Here is the [Front-End](https://github.com/Atril33/hello-react-front-end) Repo of this app.
+Here is the [Front-End](https://github.com/Atril33/hello-react-front-end/pull/1) Repo of this app.
 ### Key Features <a name='key-features'></a>
 
 <!-- > Describe between 1-3 key features of the application. -->
